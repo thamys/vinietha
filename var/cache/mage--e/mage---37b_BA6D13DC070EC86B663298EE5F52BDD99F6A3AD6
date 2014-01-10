@@ -1,0 +1,69 @@
+<div class="footer-container">
+    <div class="footer">
+        
+        <div class="footer-links">
+        
+  <div class="footer-block first">
+<h6>Customer Service</h6>
+<ul>
+<li><a href="http://localhost/vinietha/about-magento-store/?___SID=U">About Us</a></li>
+<li><a href="http://localhost/vinietha/our-company/?___SID=U">Our company</a></li>
+<li><a href="http://localhost/vinietha/catalog/seo_sitemap/category/?___SID=U">Sitemap</a></li>
+</ul>
+
+</div>
+<div class="footer-block">
+<h6>Customer Info</h6>
+<ul>
+<li><a href="http://localhost/vinietha/contacts/?___SID=U">Contact Us</a></li>
+<li><a href="http://localhost/vinietha/price-matching/?___SID=U">Price matching</a></li>
+<li><a href="http://localhost/vinietha/testimonials/?___SID=U">Testimonials</a></li>
+</ul>
+</div>
+
+<div class="footer-block">
+<h6>Corporate</h6>
+<ul>
+<li><a href="http://localhost/vinietha/privacy/?___SID=U">Privacy Policy</a></li>
+<li><a href="http://localhost/vinietha/safe-shopping/?___SID=U">Safe & secure shopping</a></li>
+<li><a href="http://localhost/vinietha/terms/?___SID=U">Terms & conditions</a></li>
+</ul>
+
+</div>
+
+<div class="footer-block last">
+<h6>Information</h6>
+
+<ul>
+<li><a href="http://localhost/vinietha/delivery/?___SID=U">Delivery information</a></li>
+<li><a href="http://localhost/vinietha/guarantee/?___SID=U">Satisfaction guarantee</a></li>
+<li><a href="http://localhost/vinietha/returns/?___SID=U">Returns policy</a></li>
+</ul>
+</div>  
+        <div class="payment">
+        <!-- <img src="http://localhost/vinietha/skin/frontend/default/hellowired/images/creditcards.gif" alt="We Accept all Major Credit Cards" /> -->
+<!-- INICIO CODIGO PAGSEGURO -->
+<center>
+<a href='https://pagseguro.uol.com.br' target='_blank'><img alt='Logotipos de meios de pagamento do PagSeguro' src='https://p.simg.uol.com.br/out/pagseguro/i/banners/pagamento/todos_animado_125_150.gif' title='Este site aceita pagamentos com Visa, MasterCard, Diners, American Express, Hipercard, Aura, Elo, PLENOCard, PersonalCard, BrasilCard, FORTBRASIL, Cabal, Mais!, Avista, Grandcard, Bradesco, Itaú, Banco do Brasil, Banrisul, Banco HSBC, saldo em conta PagSeguro e boleto.' border='0'></a>
+</center>
+<!-- FINAL CODIGO PAGSEGURO -->
+        
+        </div>
+            
+        
+                                                <!--  -->
+        </div>
+       
+    </div>
+ 
+           
+</div>
+ <div class="copyright">
+        <div class="f-left">
+            <address>&copy; 2013 Vinicius & Thamyres. All Rights Reserved.</address></div>
+            <div class="f-right">
+            <a href="http://www.hellothemes.com/" title="Magento Templates">Magento Templates</a> by <a href="http://www.hellothemes.com/" title="Magento Themes"><img src="http://localhost/vinietha/skin/frontend/default/hellowired/images/media/hellothemes.png" alt="Magento Themes" /></a>
+            </div>
+            <div style="clear:both;"></div>
+            </div>
+  
